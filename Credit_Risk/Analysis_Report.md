@@ -6,7 +6,7 @@
 * The Data was based on the Borrowers_debt an borrowers_income and the interest rates,outstanding debt,etc 
 * We were trying to predict if a loan was a high_risk loan or not
 * Describe the stages of the machine learning process you went through as part of this analysis.
-* LogisticRegression was used to create the model with the solver bieng the default "lbfgs
+* LogisticRegression was used to create the model with the solver bieng the default "lbfgs"
 
 ## Results
 
